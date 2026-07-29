@@ -22,7 +22,9 @@ Podcast feitos em vídeo
 
 ### Como eu vou fazer:
 
-- Vou retornar em uma API REST, o nome do podcast, thumbnail, data do episódio, link do vídeo e categoria
+GET: Retorne a lista de episodios
+
+response:
 
 ```js
 [
